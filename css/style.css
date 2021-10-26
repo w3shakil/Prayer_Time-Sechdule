@@ -1,0 +1,139 @@
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+}
+a {
+  text-decoration: none;
+}
+ul,
+li {
+  list-style-type: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  background: #ddd;
+}
+/*prayer time top part start*/
+.top-part {
+  background-color: rgb(31, 66, 66);
+}
+.prayer-time-top h3 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  color: rgb(7, 172, 7);
+  padding-top: 10px;
+}
+.prayer-time-top h2 {
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(255, 79, 79);
+  margin-top: 13px;
+}
+.prayer-time-top h4 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  color: #fff;
+  margin-top: 8px;
+  letter-spacing: 1px;
+}
+.clock {
+  color: #e5493a;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  letter-spacing: 6px;
+  margin-top: 10px;
+}
+#demo {
+  color: #e5493a;
+  font-family: 'Oswald', sans-serif;
+  font-size: 27px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin-top: 10px;
+}
+/*prayer time top part end*/
+/*prayer time bottom part star*/
+
+.bottom-part {
+  background-color: rgb(31, 66, 66);
+}
+.prayer-time-bottom h6 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: rgb(7, 172, 7);
+  margin-top: 18px;
+  letter-spacing: 2px;
+  margin-bottom: 3px;
+}
+.Sechdule {
+  margin-top: 15px;
+  padding-bottom: 4px;
+}
+.Sechdule span {
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #fff;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.prayer {
+  margin-top: 4px;
+}
+.prayer span {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: rgb(255, 79, 79);
+  letter-spacing: 2px;
+}
+.prayer p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: rgb(7, 172, 7);
+  letter-spacing: 2px;
+}
+.sunset {
+  margin-top: 17px;
+}
+.sunset span {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: rgb(255, 79, 79);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.s-prayer span {
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  color: rgb(7, 172, 7);
+  letter-spacing: 2px;
+}
+.phone-prayer p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  margin-top: 8px;
+  letter-spacing: 1px;
+}
+/*prayer time bottom part end*/
